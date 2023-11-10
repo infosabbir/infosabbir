@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on as a software developer<br>👯 I’m looking to collaborate on open-source project<br>🤝 I’m looking for help with developers.<br>🌱 I’m currently learning flutter.<br>💬 Ask me about your questions<br>⚡ Fun fact creating software.
+🔭 I’m currently working on as a Flutter developer<br>👯 I’m looking to collaborate on open-source project<br>🤝 I’m looking for flutter developer jobs.<br>🌱 I’m currently learning flutter.<br>💬 Ask me about your questions<br>⚡ Fun fact creating new flutter application.
 
 
 ## 🌐 Socials:
