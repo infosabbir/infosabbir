@@ -62,10 +62,20 @@ My projects demonstrate practical application of key Flutter concepts. Each repo
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certification
+
+### Education
 
 * **BSc Engineering in Computer Science and Engineering**
-    * *Graduation Period: 2019 Fall – 2024 Spring*
+    * *Graduation Period: 2019 Fall – 2024 Spring*
+
+### Key Training & Certifications
+
+I have completed comprehensive, hands-on Flutter and Dart development courses, including:
+
+* **The Complete 2024 Flutter Development Bootcamp with Dart**
+* **Flutter & Dart - The Complete Guide [2024 Edition]**
+* **Full Stack Mobile Development with Flutter, Figma, and Firebase**
 
 ---
 
