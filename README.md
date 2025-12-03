@@ -1,5 +1,17 @@
 # Hi there! I'm Md Sabbir Ahammed 👋
 
+### 📬 Let's Connect
+
+I am eager to join a development team and apply my skills. Feel free to contact me!
+
+* **Email:** `infosabbir9@gmail.com`
+
+* **LinkedIn:** [Md. Sabbir Ahammed](https://www.linkedin.com/in/md-sabbir-ahammed-514284287/)
+
+* **WhatsApp:** `+8801600998743`
+
+---
+
 ### Mobile Developer | Flutter Enthusiast
 
 I'm a passionate and detail-oriented Mobile Application Developer currently staying in **Narayanganj, Dhaka, Bangladesh**. I specialize in **Flutter** and **Dart**, focusing on transforming design concepts into high-performance, beautiful, and user-friendly cross-platform applications (iOS, Android, and Web).
@@ -71,18 +83,6 @@ I ensure my projects demonstrate:
 3. **API Integration:** Handling asynchronous data fetching, error states, and local caching.
 
 4. **Responsive UI:** Applications that adapt well across different screen sizes.
-
----
-
-### 📬 Let's Connect
-
-I am eager to join a development team and apply my skills. Feel free to contact me!
-
-* **Email:** `infosabbir9@gmail.com`
-
-* **LinkedIn:** [Md. Sabbir Ahammed](https://www.linkedin.com/in/md-sabbir-ahammed-514284287/)
-
-* **WhatsApp:** `+8801600998743`
 
 ---
 
