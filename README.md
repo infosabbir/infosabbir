@@ -1,6 +1,6 @@
 # Hi there! I'm Md Sabbir Ahammed 👋
 
-### 🚀 Flutter App Developer
+### 🚀 Flutter & Dart App Developer | Seeking Internship/Junior Role
 
 I am a passionate and detail-oriented Mobile Application Developer specializing in **Flutter** and **Dart**. My goal is to transform design concepts into high-performance, beautiful, and user-friendly cross-platform applications (iOS, Android, and Web).
 
@@ -8,70 +8,64 @@ I am actively seeking an **Internship** or **Junior Developer** role where I can
 
 ---
 
-### 📬 Let's Connect
+## 💻 Core Technical Stack
 
-Feel free to contact me—I am eager to join a development team and apply my skills.
+My focus is on building clean, scalable mobile solutions, prioritizing code quality and effective state management.
 
-* **Email:** `infosabbir9@gmail.com`
-* **WhatsApp/Phone:** +8801600998743
-* **LinkedIn:** [Md. Sabbir Ahammed](https://www.linkedin.com/in/md-sabbir-ahammed-514284287/)
-* **Location:** Narayanganj, Dhaka, Bangladesh
-
----
-
-### 💻 Core Skills & Focus
-
-* ✨ **State Management:** I am focused on building robust, scalable mobile solutions using the **Provider** package for effective state management and clean architecture.
-* 🚀 **Backend Integration:** I have experience integrating mobile apps with various backend services, including **Firebase** (Firestore, Auth, Storage) and custom **REST APIs**.
-* 🎨 **UI/UX Implementation:** I strive to create visually appealing and highly accessible interfaces, working effectively from **Figma** designs.
-* 💡 **Future Focus:** I’m currently diving deeper into **Native Interoperability** in Flutter to unlock device-specific capabilities.
+| Category | Key Technologies | Core Focus Areas |
+| :--- | :--- | :--- |
+| **Mobile Framework** | Flutter, Dart | Cross-platform development |
+| **State Management** | **Provider** | Scalable architecture, clean data flow |
+| **Backend/DB** | Firebase (Firestore, Auth, Functions), RESTful APIs | Real-time data, authentication, cloud services |
+| **DevOps/Tools** | Git, GitHub, Visual Studio Code, Postman | Version control, API testing |
+| **Design/UI** | Figma (for implementation) | Creating visually appealing, responsive UI/UX |
 
 ---
 
-### 🛠️ My Technical Stack
+## ✨ Skills Deep Dive
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Mobile Framework** | Flutter, Dart |
-| **State Management** | **Provider** |
-| **Backend/DB** | Firebase (Firestore, Authentication, Cloud Functions), RESTful APIs |
-| **DevOps/Tools** | Git, GitHub, Visual Studio Code, Postman |
-| **Design** | Figma (for implementation) |
+* **State Management:** Focused expertise in the **Provider** package to ensure robust state handling and separation of concerns (e.g., using layered architecture).
+* **Backend Integration:** Experienced in connecting mobile apps with **Firebase** (Firestore for real-time data, Authentication, Storage) and custom **REST APIs** with robust error handling.
+* **UI/UX Implementation:** Proficient in converting **Figma** designs into pixel-perfect and highly **responsive** Flutter UIs that adapt across different screen sizes.
+* **Code Quality:** Strong adherence to Dart linting rules and best practices to maintain **Clean Code** and code readability.
 
 ---
 
-### 🔬 Key Projects for Internship Review
+## 🔬 Key Project Highlights (Check Pinned Repositories!)
 
-My pinned repositories showcase my diverse skill set. I ensure my projects demonstrate key concepts valuable to a team:
+My projects demonstrate practical application of key Flutter concepts. Each repository includes screenshots, GIFs, and clear setup instructions.
 
-* **Live Data & Streaming (e.g., IP TV App):** Demonstrating complex state management and high-performance rendering.
-* **API & Geolocation (e.g., City Weather App):** Focusing on third-party API integration, robust error handling, and clean data fetching.
-* **Real-time Database & Auth (e.g., Chat Application):** Showcasing Firebase integration, real-time data listeners, and secure authentication flow.
+### 1. Real-time Database & Auth (e.g., Chat Application)
+> *Showcasing secure authentication flow, real-time data listeners, and complex data modeling using Firebase.*
+* **Skills Demonstrated:** Firebase Authentication, Firestore real-time queries, complex UI rendering based on streaming data.
 
-I ensure my projects demonstrate:
-1. **Clean Code:** Adherence to Dart linting rules and separation of concerns (e.g., using layered architecture).
-2. **State Management:** Practical application of the **Provider** package for managing complex UI and data flow. 
-3. **API Integration:** Handling asynchronous data fetching, error states, and local caching.
-4. **Responsive UI:** Applications that adapt well across different screen sizes.
+### 2. API & Geolocation (e.g., City Weather App)
+> *Focusing on third-party API integration, handling asynchronous data fetching, and managing error states effectively.*
+* **Skills Demonstrated:** API integration, error handling, local data caching, geolocation services.
 
-> **Note:** Each project repository includes a comprehensive `README.md` with **Screenshots/GIFs** and clear **Setup Instructions** for easy review.
+### 3. Live Data & Streaming (e.g., IP TV App)
+> *Demonstrating advanced state management for high-performance rendering of live data streams.*
+* **Skills Demonstrated:** Complex state flow, performance optimization, and handling streaming data.
 
 ---
 
-### 🎓 Education & Certification
-
-#### Education
+## 🎓 Education
 
 * **BSc Engineering in Computer Science and Engineering**
     * *Graduation Period: 2019 Fall – 2024 Spring*
 
-#### Key Training & Certifications
+---
 
-I have completed comprehensive, hands-on Flutter and Dart development courses, including:
+## 📬 Let's Connect
 
-* **The Complete 2024 Flutter Development Bootcamp with Dart**
-* **Flutter & Dart - The Complete Guide [2024 Edition]**
-* **Full Stack Mobile Development with Flutter, Figma, and Firebase**
+I am eager to join a development team and apply my skills. Feel free to reach out!
+
+| Contact Method | Detail | Action |
+| :--- | :--- | :--- |
+| **Email** | `infosabbir9@gmail.com` | [Send an Email](mailto:infosabbir9@gmail.com) |
+| **Phone/WhatsApp** | `+8801600998743` | [Call/Chat Now](tel:+8801600998743) |
+| **LinkedIn** | Md. Sabbir Ahammed | [View Profile](https://www.linkedin.com/in/md-sabbir-ahammed-514284287/) |
+| **Location** | Narayanganj, Dhaka, Bangladesh | |
 
 ---
 
