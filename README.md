@@ -8,6 +8,19 @@ I am actively seeking an **Internship** or **Junior Developer** role where I can
 
 ---
 
+## 📬 Let's Connect
+
+Feel free to contact me—I am eager to join a development team and apply my skills.
+
+| Contact Method | Detail (Click to use or copy the text) |
+| :--- | :--- |
+| **Email** | [infosabbir9@gmail.com](mailto:infosabbir9@gmail.com) |
+| **WhatsApp/Phone** | **+8801600998743** |
+| **LinkedIn** | [Md. Sabbir Ahammed](https://www.linkedin.com/in/md-sabbir-ahammed-514284287/) |
+| **Location** | Narayanganj, Dhaka, Bangladesh |
+
+---
+
 ## 💻 Core Technical Stack
 
 My focus is on building clean, scalable mobile solutions, prioritizing code quality and effective state management.
@@ -53,19 +66,6 @@ My projects demonstrate practical application of key Flutter concepts. Each repo
 
 * **BSc Engineering in Computer Science and Engineering**
     * *Graduation Period: 2019 Fall – 2024 Spring*
-
----
-
-## 📬 Let's Connect
-
-I am eager to join a development team and apply my skills. Feel free to reach out!
-
-| Contact Method | Detail | Action |
-| :--- | :--- | :--- |
-| **Email** | `infosabbir9@gmail.com` | [Send an Email](mailto:infosabbir9@gmail.com) |
-| **Phone/WhatsApp** | `+8801600998743` | [Call/Chat Now](tel:+8801600998743) |
-| **LinkedIn** | Md. Sabbir Ahammed | [View Profile](https://www.linkedin.com/in/md-sabbir-ahammed-514284287/) |
-| **Location** | Narayanganj, Dhaka, Bangladesh | |
 
 ---
 
