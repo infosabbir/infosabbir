@@ -2,7 +2,7 @@
 
 ### Mobile Developer | Flutter Enthusiast
 
-I'm a passionate and detail-oriented Mobile Application Developer based in **Narayanganj, Dhaka, Bangladesh**. I specialize in **Flutter** and **Dart**, focusing on transforming design concepts into high-performance, beautiful, and user-friendly cross-platform applications (iOS, Android, and Web).
+I'm a passionate and detail-oriented Mobile Application Developer currently staying in **Narayanganj, Dhaka, Bangladesh**. I specialize in **Flutter** and **Dart**, focusing on transforming design concepts into high-performance, beautiful, and user-friendly cross-platform applications (iOS, Android, and Web).
 
 My goal is to constantly learn, build robust applications, and secure a **Flutter Internship** opportunity to contribute my skills to a professional team.
 
@@ -45,7 +45,7 @@ I have completed comprehensive, hands-on Flutter and Dart development courses, i
 | Category | Technologies & Tools | 
 | :--- | :--- | 
 | **Mobile Framework** | Flutter, Dart | 
-| **State Management** | Riverpod, Provider, BLoC | 
+| **State Management** | Riverpod, Provider | 
 | **Backend/DB** | Firebase (Firestore, Authentication, Cloud Functions), RESTful APIs | 
 | **DevOps/Tools** | Git, GitHub Actions, Visual Studio Code, Postman | 
 | **Design** | Figma (for implementation) | 
@@ -66,7 +66,7 @@ I ensure my projects demonstrate:
 
 1. **Clean Code:** Adherence to Dart linting rules and separation of concerns (e.g., using layered architecture).
 
-2. **State Management:** Practical application of Riverpod/Provider/BLoC for managing complex UI and data flow.
+2. **State Management:** Practical application of Riverpod/Provider for managing complex UI and data flow.
 
 3. **API Integration:** Handling asynchronous data fetching, error states, and local caching.
 
@@ -90,7 +90,7 @@ I am eager to join a development team and apply my skills. Feel free to contact 
 
 <!-- These links generate the charts and graphs for your profile. This is what makes the section visually different. -->
 
-[![Sabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=infosabbir&show_icons=true&theme=default&include_all_commits=true&count_private=true)](https://github.com/infosabbir)
+[![Sabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=infosabbir&show_icons=true&theme=default&include_all_commits=true&count_private=false)](https://github.com/infosabbir)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infosabbir&layout=compact&langs_count=5&theme=default)](https://github.com/infosabbir)
 
 ***
