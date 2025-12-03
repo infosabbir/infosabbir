@@ -86,13 +86,7 @@ I am eager to join a development team and apply my skills. Feel free to contact 
 
 ---
 
-### 📈 GitHub Stats
-
-<!-- These links generate the charts and graphs for your profile. This is what makes the section visually different. -->
-
-[![Sabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=infosabbir&show_icons=true&theme=default&include_all_commits=true&count_private=false)](https://github.com/infosabbir)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infosabbir&layout=compact&langs_count=5&theme=default)](https://github.com/infosabbir)
-
+*Built with passion and persistence, and ready for my next professional challenge.*
 ***
 
-*Built with passion and persistence, and ready for my next professional challenge.*
+
