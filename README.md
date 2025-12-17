@@ -26,7 +26,7 @@ My focus is on building clean, scalable mobile solutions, prioritizing code qual
 | Category | Key Technologies | Core Focus Areas |
 | :--- | :--- | :--- |
 | **Mobile Framework** | Flutter, Dart | Cross-platform development |
-| **State Management** | **Provider** **GetX**| Scalable architecture, clean data flow |
+| **State Management** | **Provider**, **GetX**| Scalable architecture, clean data flow |
 | **Backend/DB** | Firebase (Firestore, Auth, Functions), RESTful APIs | Real-time data, authentication, cloud services |
 | **DevOps/Tools** | Git, GitHub, Visual Studio Code, Postman | Version control, API testing |
 | **Design/UI** | Figma (for implementation) | Creating visually appealing, responsive UI/UX |
