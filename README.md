@@ -4,8 +4,6 @@
 
 I am a passionate and detail-oriented Mobile Application Developer specializing in **Flutter** and **Dart**. My goal is to transform design concepts into high-performance, beautiful, and user-friendly cross-platform applications (iOS, Android, and Web).
 
-I am actively seeking an **Internship** or **Junior Developer** role where I can contribute my proven technical skills to a professional development team.
-
 ---
 
 ## 📬 Let's Connect
@@ -28,7 +26,7 @@ My focus is on building clean, scalable mobile solutions, prioritizing code qual
 | Category | Key Technologies | Core Focus Areas |
 | :--- | :--- | :--- |
 | **Mobile Framework** | Flutter, Dart | Cross-platform development |
-| **State Management** | **Provider** | Scalable architecture, clean data flow |
+| **State Management** | **Provider** | **GetX**| Scalable architecture, clean data flow |
 | **Backend/DB** | Firebase (Firestore, Auth, Functions), RESTful APIs | Real-time data, authentication, cloud services |
 | **DevOps/Tools** | Git, GitHub, Visual Studio Code, Postman | Version control, API testing |
 | **Design/UI** | Figma (for implementation) | Creating visually appealing, responsive UI/UX |
