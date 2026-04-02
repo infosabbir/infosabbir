@@ -1,105 +1,125 @@
-# 👋 Hi, I'm Md Sabbir Ahammed
+# 👋 Hi, I'm Md Sabbir Ahammed  
 
-### 🚀 Junior Flutter Developer | Mobile App Enthusiast
+### 🚀 Junior Flutter Developer | Mobile App Enthusiast  
 
-I am a passionate Flutter developer who loves building **beautiful, fast, and scalable mobile applications**.  
-I enjoy turning ideas into real apps and continuously improving my skills in **Dart, Firebase, and clean architecture**.
+I build **beautiful, fast, and scalable mobile applications** using Flutter.  
+Passionate about turning ideas into real-world apps and continuously improving my skills in **Dart, Firebase, and clean architecture**.  
 
-💡 Currently available for **Flutter Internship / Junior Developer roles**
+💼 **Open to Flutter Internship / Junior Developer roles**  
 
 ---
 
-## 📬 Connect With Me
+## 🌐 Connect With Me  
 
 - 📧 Email: infosabbir9@gmail.com  
-- 📱 Phone/WhatsApp: +8801600998743  
+- 📱 WhatsApp: +8801600998743  
 - 💼 LinkedIn: https://www.linkedin.com/in/md-sabbir-ahammed-514284287/  
 - 💻 GitHub: https://github.com/infosabbir  
-- 📍 Location: Narayanganj, Dhaka, Bangladesh  
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Stack  
 
-### 📱 Mobile Development
-- Flutter  
-- Dart  
+### 📱 Mobile  
+`Flutter` `Dart`  
 
-### 🔄 State Management
-- Provider  
-- GetX  
+### 🔄 State Management  
+`Provider` `GetX`  
 
-### 🔥 Backend & Database
-- Firebase (Auth, Firestore, Storage)  
-- REST APIs  
+### 🔥 Backend  
+`Firebase Auth` `Firestore` `Storage` `REST API`  
 
-### 🛠 Tools & Technologies
-- Git & GitHub  
-- VS Code  
-- Postman  
+### 🛠 Tools  
+`Git` `GitHub` `VS Code` `Postman`  
 
-### 🎨 UI/UX
-- Figma (UI implementation)  
-- Responsive Design  
+### 🎨 UI/UX  
+`Figma` `Responsive Design`  
 
 ---
 
-## ✨ What I Can Do
+## ✨ What I Do  
 
-✔ Build cross-platform apps (Android, iOS, Web)  
-✔ Integrate Firebase authentication & real-time database  
-✔ Work with REST APIs & handle errors properly  
-✔ Convert Figma designs into pixel-perfect UI  
-✔ Write clean, maintainable, and scalable code  
+✔ Build cross-platform apps (Android | iOS | Web)  
+✔ Write clean, scalable & maintainable code  
+✔ Integrate Firebase & REST APIs  
+✔ Convert Figma UI into pixel-perfect apps  
+✔ Handle errors, loading states & performance  
 
 ---
 
-## 🔬 Featured Projects
+## 🚀 Featured Projects  
 
-### 🛒 ShopMe App (E-commerce)
-- Product listing and details screen  
-- Add to cart functionality  
-- Firebase backend integration  
-- Clean UI with responsive layout  
+### 🛒 ShopMe App (E-commerce)  
+- Product listing & details  
+- Add to cart system  
+- Firebase backend  
+- Clean architecture structure  
+- Responsive UI  
 
-### 🌦 Weather App (API + Location)
-- Live weather data using REST API  
-- Location-based services  
-- Error handling and loading states  
+🔗 **Repo:** *(Add after upload)*  
 
-### 📺 IPTV Streaming App
+---
+
+### 🌦 Weather App  
+- Live weather API  
+- Location-based data  
+- Error handling & loading UI  
+
+🔗 https://github.com/infosabbir/clima  
+
+---
+
+### 📺 IPTV Streaming App  
 - M3U playlist support  
-- Live channel streaming  
-- Optimized performance for smooth playback  
+- Live streaming  
+- Smooth playback optimization  
 
-👉 Check my pinned repositories for full project details, screenshots, and setup guide!
+🔗 https://github.com/infosabbir/iptv_app  
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats  
 
-**BSc in Computer Science & Engineering**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infosabbir&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infosabbir&layout=compact&theme=tokyonight)
+
+---
+
+## 🎓 Education  
+
+🎓 **BSc in Computer Science & Engineering**  
 📅 2019 – 2024  
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications  
 
 - Flutter Development Bootcamp with Dart (Udemy)  
-- Flutter & Dart - The Complete Guide (Udemy)  
+- Flutter & Dart – The Complete Guide (Udemy)  
 - Full Stack Mobile Development with Flutter, Figma & Firebase (Udemy)  
 
 📌 Certificates available upon request  
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Goal  
 
-I am eager to join a **professional development team** where I can:
+I want to join a **professional development team** where I can:  
+
 - Learn from experienced developers  
 - Contribute to real-world projects  
-- Improve my Flutter development skills  
+- Improve my Flutter skills  
+- Build impactful products  
 
 ---
 
-⭐ *Always learning, always building, and ready for new challenges!*
+## 💡 Currently Learning  
+
+- Advanced Flutter Architecture  
+- API Optimization  
+- App Performance Tuning  
+
+---
+
+⭐ **Always learning | Always building | Ready for opportunities**
