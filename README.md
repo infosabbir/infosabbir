@@ -1,80 +1,105 @@
-# Hi there! I'm Md Sabbir Ahammed 👋
+# 👋 Hi, I'm Md Sabbir Ahammed
 
-### 🚀 Flutter App Developer
+### 🚀 Junior Flutter Developer | Mobile App Enthusiast
 
-I am a passionate and detail-oriented Mobile Application Developer specializing in **Flutter** and **Dart**. My goal is to transform design concepts into high-performance, beautiful, and user-friendly cross-platform applications (iOS, Android, and Web).
+I am a passionate Flutter developer who loves building **beautiful, fast, and scalable mobile applications**.  
+I enjoy turning ideas into real apps and continuously improving my skills in **Dart, Firebase, and clean architecture**.
 
----
-
-## 📬 Let's Connect
-
-Feel free to contact me—I am eager to join a development team and apply my skills.
-
-| Contact Method | Detail (Click to use or copy the text) |
-| :--- | :--- |
-| **Email** | [infosabbir9@gmail.com](mailto:infosabbir9@gmail.com) |
-| **WhatsApp/Phone** | **+8801600998743** |
-| **LinkedIn** | [Md. Sabbir Ahammed](https://www.linkedin.com/in/md-sabbir-ahammed-514284287/) |
-| **Location** | Narayanganj, Dhaka, Bangladesh |
+💡 Currently available for **Flutter Internship / Junior Developer roles**
 
 ---
 
-## 💻 Core Technical Stack
+## 📬 Connect With Me
 
-My focus is on building clean, scalable mobile solutions, prioritizing code quality and effective state management.
-
-| Category | Key Technologies | Core Focus Areas |
-| :--- | :--- | :--- |
-| **Mobile Framework** | Flutter, Dart | Cross-platform development |
-| **State Management** | **Provider**, **GetX**| Scalable architecture, clean data flow |
-| **Backend/DB** | Firebase (Firestore, Auth, Functions), RESTful APIs | Real-time data, authentication, cloud services |
-| **DevOps/Tools** | Git, GitHub, Visual Studio Code, Postman | Version control, API testing |
-| **Design/UI** | Figma (for implementation) | Creating visually appealing, responsive UI/UX |
+- 📧 Email: infosabbir9@gmail.com  
+- 📱 Phone/WhatsApp: +8801600998743  
+- 💼 LinkedIn: https://www.linkedin.com/in/md-sabbir-ahammed-514284287/  
+- 💻 GitHub: https://github.com/infosabbir  
+- 📍 Location: Narayanganj, Dhaka, Bangladesh  
 
 ---
 
-## ✨ Skills Deep Dive
+## 💻 Tech Stack
 
-* **State Management:** Focused expertise in the **Provider** package to ensure robust state handling and separation of concerns (e.g., using layered architecture).
-* **Backend Integration:** Experienced in connecting mobile apps with **Firebase** (Firestore for real-time data, Authentication, Storage) and custom **REST APIs** with robust error handling.
-* **UI/UX Implementation:** Proficient in converting **Figma** designs into pixel-perfect and highly **responsive** Flutter UIs that adapt across different screen sizes.
-* **Code Quality:** Strong adherence to Dart linting rules and best practices to maintain **Clean Code** and code readability.
+### 📱 Mobile Development
+- Flutter  
+- Dart  
 
----
+### 🔄 State Management
+- Provider  
+- GetX  
 
-## 🔬 Key Project Highlights (Check Pinned Repositories!)
+### 🔥 Backend & Database
+- Firebase (Auth, Firestore, Storage)  
+- REST APIs  
 
-My projects demonstrate practical application of key Flutter concepts. Each repository includes screenshots, GIFs, and clear setup instructions.
+### 🛠 Tools & Technologies
+- Git & GitHub  
+- VS Code  
+- Postman  
 
-### 1. Real-time Database & Auth (e.g., Chat Application)
-> *Showcasing secure authentication flow, real-time data listeners, and complex data modeling using Firebase.*
-* **Skills Demonstrated:** Firebase Authentication, Firestore real-time queries, complex UI rendering based on streaming data.
-
-### 2. API & Geolocation (e.g., City Weather App)
-> *Focusing on third-party API integration, handling asynchronous data fetching, and managing error states effectively.*
-* **Skills Demonstrated:** API integration, error handling, local data caching, geolocation services.
-
-### 3. Live Data & Streaming (e.g., IP TV App)
-> *Demonstrating advanced state management for high-performance rendering of live data streams.*
-* **Skills Demonstrated:** Complex state flow, performance optimization, and handling streaming data.
+### 🎨 UI/UX
+- Figma (UI implementation)  
+- Responsive Design  
 
 ---
 
-## 🎓 Education & Certification
+## ✨ What I Can Do
 
-### Education
-
-* **BSc Engineering in Computer Science and Engineering**
-    * *Graduation Period: 2019 Fall – 2024 Spring*
-
-### Key Training & Certifications
-
-I have completed comprehensive, hands-on Flutter and Dart development courses, including:
-
-* **The Complete 2024 Flutter Development Bootcamp with Dart**
-* **Flutter & Dart - The Complete Guide [2024 Edition]**
-* **Full Stack Mobile Development with Flutter, Figma, and Firebase**
+✔ Build cross-platform apps (Android, iOS, Web)  
+✔ Integrate Firebase authentication & real-time database  
+✔ Work with REST APIs & handle errors properly  
+✔ Convert Figma designs into pixel-perfect UI  
+✔ Write clean, maintainable, and scalable code  
 
 ---
 
-*Built with passion and persistence, and ready for my next professional challenge.*
+## 🔬 Featured Projects
+
+### 🛒 ShopMe App (E-commerce)
+- Product listing and details screen  
+- Add to cart functionality  
+- Firebase backend integration  
+- Clean UI with responsive layout  
+
+### 🌦 Weather App (API + Location)
+- Live weather data using REST API  
+- Location-based services  
+- Error handling and loading states  
+
+### 📺 IPTV Streaming App
+- M3U playlist support  
+- Live channel streaming  
+- Optimized performance for smooth playback  
+
+👉 Check my pinned repositories for full project details, screenshots, and setup guide!
+
+---
+
+## 🎓 Education
+
+**BSc in Computer Science & Engineering**  
+📅 2019 – 2024  
+
+---
+
+## 📜 Certifications
+
+- Flutter Development Bootcamp with Dart (Udemy)  
+- Flutter & Dart - The Complete Guide (Udemy)  
+- Full Stack Mobile Development with Flutter, Figma & Firebase (Udemy)  
+
+📌 Certificates available upon request  
+
+---
+
+## 🎯 Career Goal
+
+I am eager to join a **professional development team** where I can:
+- Learn from experienced developers  
+- Contribute to real-world projects  
+- Improve my Flutter development skills  
+
+---
+
+⭐ *Always learning, always building, and ready for new challenges!*
