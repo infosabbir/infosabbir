@@ -1,10 +1,10 @@
 <!-- 🔥 Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Md+Sabbir+Ahammed;SQA+Engineer;QA+%26+Test+Automation+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Md+Sabbir+Ahammed;SQA+%26+Automation+Engineer;Web%2C+Mobile+%26+API+Testing;Always+Learning+New+Things" />
 </p>
 
 <h1 align="center">🚀 Md Sabbir Ahammed</h1>
-<h3 align="center">Software Quality Assurance (SQA) Engineer</h3>
+<h3 align="center">Software Quality Assurance (SQA) & Automation Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/infosabbir">
@@ -16,9 +16,9 @@
 
 ## 👨‍💻 About Me  
 
-I am a passionate **Software Quality Assurance (SQA) Engineer** with a strong foundational background in Computer Science and software development. With hands-on experience building mobile applications, I bring a unique "developer’s mindset" to testing—allowing me to write precise test cases, track bugs down to the code level, and effectively bridge the gap between QA and development teams.
+I am a detail-oriented **Software Quality Assurance (SQA) Engineer** with a strong foundational background in Computer Science and software development. Moving from cross-platform mobile development (Flutter/Dart) into SQA allows me to bring a highly valuable "developer's mindset" to testing. I don't just look at the UI—I understand the underlying system architecture, data models, and API logic.
 
-I focus on ensuring software reliability, performance, and seamless user experiences through rigorous manual and automated testing.
+Currently, I specialize in combining robust **Manual Testing methodologies** with modern **Web & API Test Automation** to ensure seamless, bug-free user experiences.
 
 💼 **Open to SQA Internship / Junior SQA Engineer roles**  
 
@@ -37,61 +37,52 @@ I focus on ensuring software reliability, performance, and seamless user experie
 ## ⚡ Tech Stack & SQA Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,flutter,dart,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=postman,playwright,git,github,vscode,flutter,dart,firebase,figma" />
 </p>
 
+* **Test Automation:** Playwright (Web UI Automation, E2E Testing, Browser Emulation).
+* **API Testing:** Postman & Playwright API Testing (Request/Response Validation, Collections).
 * **Testing Methodologies:** SDLC, STLC, Agile/Scrum, Functional, Regression, Smoke, Integration, Black-box Testing.
-* **API Testing:** Postman (Request validation, Environment variables, Collections).
-* **Defect Management:** Bug Tracking, Clear Defect Reporting, Test Case Documentation.
-* **Platform Expertise:** Android, iOS, Web UI Testing.
-* **Development Skills (for Automation):** Dart, Flutter (Integration & Unit testing concepts).
+* **Defect Management:** Bug Tracking, Comprehensive Defect Reporting, Test Case Documentation.
+* **Platform Familiarity:** Web Ecosystems, Android, iOS.
 
 ---
 
 ## ✨ What I Do  
 
-✔ **Test Case Design:** Write comprehensive, structured test cases and checklists from SRS/Figma designs.
-✔ **API Verification:** Validate REST endpoints, status codes, payloads, and response times using Postman.
-✔ **Mobile App Testing:** Perform deep UI/UX and functional testing on Android & iOS applications.
-✔ **Bug Lifecycle Management:** Identify, isolate, and log detailed defects with clear steps to reproduce.
-✔ **Collaboration:** Work closely with developers to debug issues and ensure smooth regression cycles.
+✔ **Web & API Automation:** Design end-to-end automated UI scripts and validate API endpoints using Playwright.
+✔ **Test Case Design:** Author structured, highly comprehensive manual test cases and defect checklists from SRS documentation.
+✔ **Technical Mobile Testing:** Leverage my Flutter background to perform deep functional and edge-case testing on mobile builds.
+✔ **Bug Lifecycle Management:** Track down, isolate, and log detailed defects with clear steps to reproduce, logs, and screenshots.
+✔ **Team Collaboration:** Act as a bridge between QA and Development teams by communicating bugs technical terms.
 
 ---
 
 ## 🚀 Featured Testing & Development Projects  
 
-> *Note: My development projects showcase my deep understanding of application logic, architecture, and API flows—giving me an edge in technical testing.*
+> *Note: My background in mobile development showcases my deep understanding of application logic and API integration, giving me a distinct advantage in technical testing workflows.*
 
-### 📋 SQA Portfolio / Test Artifacts (Recommended)
-- Designed detailed test suites, bug tracking templates, and test reports.
-- Executed API automation collections and environment setups.
+### 📋 SQA Practice Portfolio (Recommended Action Item)
+- Automated E2E test scripts utilizing **Playwright**.
+- Structured manual test suites, test cases, and bug tracking sheets.
 
-🔗 *[Link to a repository where you put your test cases/Postman collections Excel/PDFs]*  
+🔗 *[Link to a repository where you save your Playwright scripts or Test Case Excel sheets]*  
 
 ---
 
-### 🛒 ShopMe App (E-commerce Analysis)  
-- Analysed end-to-end user workflows (Cart, Checkout, Authentication).
-- Handled edge cases for complex states (network drops, invalid input handling).
-- Developed using Flutter with a clean architecture and Firebase backend.
+### 🛒 ShopMe App (E-commerce Flow Analysis)  
+- Handled state exceptions and simulated boundary conditions (network drops, invalid input strings).
+- Built with Flutter, featuring clean architecture and a Firebase backend ecosystem.
 
 🔗 **Repo:** *(Add after upload)*  
 
 ---
 
 ### 🌦 Weather App (API Validation Focus)  
-- Tested integration with live Rest APIs, handling async data streams.
-- Validated error handling UI for boundary conditions (e.g., location permission denied, network failure).
+- Tested live REST API integrations, handling asynchronous data payloads.
+- Validated UI error states for specific device parameters (e.g., location services disabled).
 
 🔗 https://github.com/infosabbir/clima  
-
----
-
-### 📺 IPTV Streaming App (Performance & UI Testing)  
-- Tested media playback stability under varying network bandwidths.
-- Verified parsing logic for diverse M3U playlist file formats.
-
-🔗 https://github.com/infosabbir/iptv_app  
 
 ---
 
@@ -106,9 +97,8 @@ I focus on ensuring software reliability, performance, and seamless user experie
 
 ## 🧠 Currently Learning & Upskilling  
 
-- **Automation Tools:** Selenium WebDriver / Appium for Mobile Automation.
-- **Programming for Testing:** Enhancing scripting proficiency for automation frameworks.
-- **CI/CD Basics:** Understanding GitHub Actions for automated regression runs.
+- **Advanced Playwright Frameworks:** Page Object Model (POM), CI/CD integration using GitHub Actions.
+- **Performance Testing:** Introduction to basic load and performance testing concepts.
 
 ---
 
@@ -121,14 +111,13 @@ I focus on ensuring software reliability, performance, and seamless user experie
 
 ## 🎯 Career Goal  
 
-I aim to join a **dynamic QA/Engineering team** where I can:  
-- Implement industry-standard STLC processes to elevate product quality.  
-- Leverage my software development insights to find hidden bugs early in the cycle.  
-- Transition manual testing workflows into robust automation frameworks.  
-- Grow continuously alongside senior QA professionals.  
+I aim to join a growth-focused **QA & Engineering team** where I can:  
+- Utilize industry-standard STLC practices to elevate product stability.  
+- Deploy Playwright automation suites to reduce manual regression cycles.  
+- Catch complicated functional bugs early in the cycle using my software development insights.  
 
 ---
 
 <p align="center">
-  ⭐ <b>Detail-oriented | Analytical Thinker | Ready for SQA Opportunities</b> ⭐
+  ⭐ <b>Detail-oriented | Automation Mindset | Analytical Thinker</b> ⭐
 </p>
