@@ -16,9 +16,9 @@
 
 ## 👨‍💻 About Me  
 
-I am a detail-oriented **Software Quality Assurance (SQA) Engineer** with a strong foundational background in Computer Science and software development. Moving from cross-platform mobile development (Flutter/Dart) into SQA allows me to bring a highly valuable "developer's mindset" to testing. I don't just look at the UI—I understand the underlying system architecture, data models, and API logic.
+I am a detail-oriented **Software Quality Assurance (SQA) Engineer** with a strong foundational background in Computer Science and software development. Transitioning from cross-platform mobile development (Flutter/Dart) into SQA allows me to bring a highly valuable "developer's mindset" to testing. I don't just look at the UI—I understand the underlying system architecture, data models, and API logic.
 
-Currently, I specialize in combining robust **Manual Testing methodologies** with modern **Web & API Test Automation** to ensure seamless, bug-free user experiences.
+I specialize in combining robust **Manual Testing methodologies** with modern **Web & API Test Automation (Playwright)** to ensure seamless, bug-free user experiences.
 
 💼 **Open to SQA Internship / Junior SQA Engineer roles**  
 
@@ -40,7 +40,7 @@ Currently, I specialize in combining robust **Manual Testing methodologies** wit
   <img src="https://skillicons.dev/icons?i=postman,playwright,git,github,vscode,flutter,dart,firebase,figma" />
 </p>
 
-* **Test Automation:** Playwright (Web UI Automation, E2E Testing, Browser Emulation).
+* **Test Automation:** Playwright (Web UI Automation, E2E Testing, Browser Emulation, JavaScript/TypeScript).
 * **API Testing:** Postman & Playwright API Testing (Request/Response Validation, Collections).
 * **Testing Methodologies:** SDLC, STLC, Agile/Scrum, Functional, Regression, Smoke, Integration, Black-box Testing.
 * **Defect Management:** Bug Tracking, Comprehensive Defect Reporting, Test Case Documentation.
@@ -54,7 +54,7 @@ Currently, I specialize in combining robust **Manual Testing methodologies** wit
 ✔ **Test Case Design:** Author structured, highly comprehensive manual test cases and defect checklists from SRS documentation.
 ✔ **Technical Mobile Testing:** Leverage my Flutter background to perform deep functional and edge-case testing on mobile builds.
 ✔ **Bug Lifecycle Management:** Track down, isolate, and log detailed defects with clear steps to reproduce, logs, and screenshots.
-✔ **Team Collaboration:** Act as a bridge between QA and Development teams by communicating bugs technical terms.
+✔ **Team Collaboration:** Act as a bridge between QA and Development teams by communicating bugs in technical terms.
 
 ---
 
@@ -62,11 +62,11 @@ Currently, I specialize in combining robust **Manual Testing methodologies** wit
 
 > *Note: My background in mobile development showcases my deep understanding of application logic and API integration, giving me a distinct advantage in technical testing workflows.*
 
-### 📋 SQA Practice Portfolio (Recommended Action Item)
+### 📋 Playwright E2E Automation Portfolio
 - Automated E2E test scripts utilizing **Playwright**.
 - Structured manual test suites, test cases, and bug tracking sheets.
 
-🔗 *[Link to a repository where you save your Playwright scripts or Test Case Excel sheets]*  
+🔗 *[Link to your Playwright repository or Test Case documents]*  
 
 ---
 
@@ -97,8 +97,9 @@ Currently, I specialize in combining robust **Manual Testing methodologies** wit
 
 ## 🧠 Currently Learning & Upskilling  
 
-- **Advanced Playwright Frameworks:** Page Object Model (POM), CI/CD integration using GitHub Actions.
-- **Performance Testing:** Introduction to basic load and performance testing concepts.
+- **CI/CD Integration:** Running automated Playwright test suites via GitHub Actions on code commits.
+- **Advanced Automation:** Designing scalable frameworks using the Page Object Model (POM).
+- **Mobile Automation:** Exploring Appium/Flutter integration tests to bridge my development and QA skillsets.
 
 ---
 
@@ -106,6 +107,17 @@ Currently, I specialize in combining robust **Manual Testing methodologies** wit
 
 🎓 **BSc in Computer Science & Engineering**  
 📅 2019 – 2024  
+
+---
+
+## 📜 Certifications  
+
+- 🥇 **Playwright Automation Testing Tutorial with JavaScript/TypeScript** (Udemy)  
+- Flutter Development Bootcamp with Dart (Udemy)  
+- Flutter & Dart – The Complete Guide (Udemy)  
+- Full Stack Mobile Development with Flutter, Figma & Firebase (Udemy)  
+
+📌 *Certificates and course completion verifications available upon request.*
 
 ---
 
